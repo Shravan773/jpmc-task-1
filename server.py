@@ -324,7 +324,7 @@ class App(object):
                 },
                 'top_ask': asks2 and {
                     'price': asks2[0][0],
-                    'size': asks2[0][1]
+                   'size': asks2[0][1]
                 }
             }]
 
